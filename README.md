@@ -26,15 +26,19 @@ A satellite image of the orchard section employed for the acquisition campaign s
   - Up_point_1:   32°26'37"S 71°20'21"W
   - Down_point_1: 32°26'39"S 71°20'23"W
 
+<p align="center">
+  <img src="images/pullally_geographic_0.png" width="600">
+</p>
+
 
 ### Sensor and Acquisition
 This dataset was collected by the authors using a Unitree Go1 quadruped robot. The robot was equipped with a Velodyne VLP-16 lidar, and an ArduSimple RTK3BPro GNSS-RTK system paired with a calibrated Survey GNSS Tripleband+L-band antenna. Ground-truth positions were recorded at 1~$Hz$ with sub-centimeter accuracy using a stationary RTK base station.
 
-- **Platform:** Unitree Go1 quadruped robot [link text](https://shop.unitree.com/products/unitreeyushutechnologydog-artificial-intelligence-companion-bionic-companion-intelligent-robot-go1-quadruped-robot-dog?variant=42363559674089)
-- **Sensor:** Velodyne VLP-16 lidar [link text]([https://example.com](https://ouster.com/products/hardware/vlp-16))
-              ArduSimple RTK3BPro GNSS-RTK [link text](https://www.ardusimple.com/user-guide-simplertk3b-pro/)
-- **Acquisition date(s):** 2023-08-06
+- **Platform:** [Unitree Go1](https://shop.unitree.com/products/unitreeyushutechnologydog-artificial-intelligence-companion-bionic-companion-intelligent-robot-go1-quadruped-robot-dog?variant=42363559674089) quadruped robot 
+- **Sensor:** [Velodyne VLP-16]([https://example.com](https://ouster.com/products/hardware/vlp-16)) lidar
 
+  [ArduSimple RTK3BPro](https://www.ardusimple.com/user-guide-simplertk3b-pro/) GNSS-RTK
+- **Acquisition date(s):** 2023-08-06
 
 ### File Formats and Sizes
 - **Format:** .bag (rosbags)
@@ -46,4 +50,4 @@ This dataset was collected by the authors using a Unitree Go1 quadruped robot. T
 The full dataset is hosted externally:
 
 - **Cloud storage:** One drive
-- **Download link:** [link text](https://uccl0-my.sharepoint.com/:f:/r/personal/mtorreto_uc_cl/Documents/Datasets/Pullally_Dataset?csf=1&web=1&e=dwRVnG)
+- **Download link:** [Dowload Pullally Dataset](https://uccl0-my.sharepoint.com/:f:/r/personal/mtorreto_uc_cl/Documents/Datasets/Pullally_Dataset?csf=1&web=1&e=dwRVnG)
