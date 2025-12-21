@@ -10,6 +10,11 @@ This repository documents a lidar dataset acquired in Valparaíso Region, Chile,
 
 The raw LiDAR data are hosted in the cloud, while this repository provides the associated documentation and example usage.
 
+<p align="center">
+  <img src="images/pullaly_camera_lidar.png" width="600">
+</p>
+
+
 ## Dataset Description
 
 This dataset comprises raw terrestrial lidar 3D point clouds representing tree structures and surrounding forest vegetation. The data are intended to support research and development in areas such as environmental perception, vegetation analysis, and robotic mapping, as well as educational use.
@@ -41,6 +46,10 @@ This dataset was collected by the authors using a Unitree Go1 quadruped robot. T
 
   [ArduSimple RTK3BPro](https://www.ardusimple.com/user-guide-simplertk3b-pro/) GNSS-RTK
 - **Acquisition date(s):** 2023-08-06
+
+<p align="center">
+  <img src="images/IMG_20230806_111006.jpg" width="600">
+</p>
 
 ### File Formats and Sizes
 - **Format:** .bag (rosbags)
