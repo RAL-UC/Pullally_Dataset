@@ -35,7 +35,9 @@ A satellite image of the orchard section employed for the acquisition campaign s
 This dataset was collected by the authors using a Unitree Go1 quadruped robot. The robot was equipped with a Velodyne VLP-16 lidar, and an ArduSimple RTK3BPro GNSS-RTK system paired with a calibrated Survey GNSS Tripleband+L-band antenna. Ground-truth positions were recorded at 1~$Hz$ with sub-centimeter accuracy using a stationary RTK base station.
 
 - **Platform:** [Unitree Go1](https://shop.unitree.com/products/unitreeyushutechnologydog-artificial-intelligence-companion-bionic-companion-intelligent-robot-go1-quadruped-robot-dog?variant=42363559674089) quadruped robot 
-- **Sensor:** [Velodyne VLP-16]([https://example.com](https://ouster.com/products/hardware/vlp-16)) lidar
+- **Sensors:**
+
+  [Velodyne VLP-16](https://ouster.com/products/hardware/vlp-16) lidar
 
   [ArduSimple RTK3BPro](https://www.ardusimple.com/user-guide-simplertk3b-pro/) GNSS-RTK
 - **Acquisition date(s):** 2023-08-06
